@@ -9,7 +9,10 @@ This is a copy of CGV's website.
 
 ## Running the project locally
 
-  ### `npm run start`
+  ### Server
+  `npm run dev`
+  ### Client
+  `npm run start`
 
 ## Features
 
